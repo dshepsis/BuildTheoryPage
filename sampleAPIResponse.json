@@ -1,0 +1,196 @@
+{
+    "indexed": {
+      "date-parts": [
+        [
+          2019,
+          2,
+          19
+        ]
+      ],
+      "date-time": "2019-02-19T01:40:05Z",
+      "timestamp": 1550540405403
+    },
+    "reference-count": 105,
+    "publisher": "American Chemical Society (ACS)",
+    "issue": "6",
+    "funder": [
+      {
+        "DOI": "10.13039/100000057",
+        "name": "National Institute of General Medical Sciences",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "GM122086",
+          "GM062248",
+          "P01GM066275"
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "J. Am. Chem. Soc."
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2019,
+          2,
+          13
+        ]
+      ]
+    },
+    "DOI": "10.1021/jacs.8b11474",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2019,
+          1,
+          11
+        ]
+      ],
+      "date-time": "2019-01-11T10:35:34Z",
+      "timestamp": 1547202934000
+    },
+    "page": "2435-2445",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+      "Predicting Site-Binding Modes of Ions and Water to Nucleic Acids Using Molecular Solvation Theory"
+    ],
+    "prefix": "10.1021",
+    "volume": "141",
+    "author": [
+      {
+        "ORCID": "http://orcid.org/0000-0003-0581-8605",
+        "authenticated-orcid": true,
+        "given": "George M.",
+        "family": "Giambaşu",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Chemistry and Chemical Biology, Rutgers, The State University of New Jersey, New Brunswick, New Jersey 08901, United States"
+          }
+        ]
+      },
+      {
+        "ORCID": "http://orcid.org/0000-0003-2314-2346",
+        "authenticated-orcid": true,
+        "given": "David A.",
+        "family": "Case",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Chemistry and Chemical Biology, Rutgers, The State University of New Jersey, New Brunswick, New Jersey 08901, United States"
+          }
+        ]
+      },
+      {
+        "ORCID": "http://orcid.org/0000-0002-9193-7055",
+        "authenticated-orcid": true,
+        "given": "Darrin M.",
+        "family": "York",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Chemistry and Chemical Biology, Rutgers, The State University of New Jersey, New Brunswick, New Jersey 08901, United States"
+          },
+          {
+            "name": "Laboratory for Biomolecular Simulation Research, Rutgers, The State University of New Jersey, New Brunswick, New Jersey 08901, United States"
+          },
+          {
+            "name": "Center for Integrative Proteomics Research, Rutgers, The State University of New Jersey, New Brunswick, New Jersey 08901, United States"
+          }
+        ]
+      }
+    ],
+    "member": "316",
+    "published-online": {
+      "date-parts": [
+        [
+          2019,
+          1,
+          11
+        ]
+      ]
+    },
+    "container-title": [
+      "Journal of the American Chemical Society"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://pubs.acs.org/doi/pdf/10.1021/jacs.8b11474",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2019,
+          2,
+          13
+        ]
+      ],
+      "date-time": "2019-02-13T12:03:45Z",
+      "timestamp": 1550059425000
+    },
+    "score": 1,
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          1,
+          11
+        ]
+      ]
+    },
+    "references-count": 105,
+    "journal-issue": {
+      "published-online": {
+        "date-parts": [
+          [
+            2019,
+            1,
+            31
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2019,
+            2,
+            13
+          ]
+        ]
+      },
+      "issue": "6"
+    },
+    "alternative-id": [
+      "10.1021/jacs.8b11474"
+    ],
+    "URL": "http://dx.doi.org/10.1021/jacs.8b11474",
+    "relation": {},
+    "ISSN": [
+      "0002-7863",
+      "1520-5126"
+    ],
+    "issn-type": [
+      {
+        "value": "0002-7863",
+        "type": "print"
+      },
+      {
+        "value": "1520-5126",
+        "type": "electronic"
+      }
+    ]
+  }

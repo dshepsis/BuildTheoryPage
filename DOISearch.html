@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Automatic DOI Search</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="buildTheoryPage.js"></script>
+</head>
+<body>
+    <input id="input" type="text" placeholder="DOI Number" />
+    <p id="output"></p>
+
+    <script>
+    const inp = document.getElementById('input');
+    const out = document.getElementById('output');
+    inp.addEventListener('change', buildTheoryPage(inp.value, out));
+    </script>
+</body>
+</html>
