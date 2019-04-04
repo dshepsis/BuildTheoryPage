@@ -6,7 +6,7 @@ function datePartsToStr(ymdArr) {
 }
 
 async function buildTheoryPage(doiStr, ele) {
-    const response = await fetch(doiStr);
+    const response = await fetch('https://api.crossref.org/works/' + doiStr);
     try {
         const json = (await response.json()).message;
     }
