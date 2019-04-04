@@ -7,8 +7,9 @@ function datePartsToStr(ymdArr) {
 
 async function buildTheoryPage(doiStr, ele) {
     const response = await fetch('https://api.crossref.org/works/' + doiStr);
+    let json;
     try {
-        const json = (await response.json()).message;
+        json = (await response.json()).message;
     }
     catch {
         ele.innerHTML = "FAILED"
